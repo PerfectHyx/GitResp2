@@ -1,1 +1,2 @@
-hello ！ Git Hub！
+hello ！ Git Hub
+very good
